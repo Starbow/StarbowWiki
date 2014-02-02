@@ -21,7 +21,7 @@
 $messages = array();
 
 $messages['en'] = array(
-	'persona-login' => 'Login with Persona',
+	'persona-login' => 'Login',
 	'persona-desc' => 'Allows users to log in with their Mozilla Persona account.'
 );
 
